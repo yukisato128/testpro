@@ -1,2 +1,2 @@
 # testpro
-this is a temporary test data
+this is a temporary test text
